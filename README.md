@@ -2,7 +2,7 @@
 
 There is an overwhelming number of things to do early on. Being an ironman means you can't simply buy questing supplies, teleports, or energy potions. This means we'll want to be doing a number of things at once.
 
-This guide is **very** detailed, but really it is only 3-4 hours. By the time you are done you should have almost 450_ish_ total level, can weild rune, and will be well setup to start exploring and gaming. Basically we're going to blast past the early game and get to the more fun things.
+This guide is **very** detailed, but really it is only 3-4 hours. By the time you are done you should have almost 450ish total level, can weild rune, and will be well setup to start gaming. Basically we're going to blast past the early game and get to the more fun things.
 
 Credit to [Ultimate Ironman Guide](https://oldschool.runescape.wiki/w/Ultimate_Ironman_Guide/Step-by-step_to_Prifddinas). I like the multi-questing stuff.
 
@@ -148,6 +148,7 @@ Grab your shit out of the bank and continue.
 - [ ] The skull from Restless Ghost
 - [ ] The package from Rune Mysteries
 - [ ] Coins
+- [ ] Wielding Fire Staff, Chronicle, and Ghost Speak.
 
 ## Second and final lap
 
@@ -212,6 +213,7 @@ You aren't saving the cake, stew, bread, or shrimp for anything special. Feel fr
 - [ ] Steel Axe
 - [ ] Coins
 - [ ] Any leftover food, doesn't really matter.
+- [ ] Wielding Fire Staff, Chronicle, and Ghost Speak.
 
 ## Ardougne Time!!
 
@@ -284,3 +286,120 @@ You aren't saving the cake, stew, bread, or shrimp for anything special. Feel fr
 - [ ] Tinderbox
 - [ ] Steel Axe
 - [ ] Coins
+- [ ] Wielding Fire Staff, Chronicle, and Ghost Speak.
+
+## Finishing up the multi-quests
+
+- [ ] Minigame teleport to [Clan Wars](https://oldschool.runescape.wiki/w/Clan_Wars).
+- [ ] Hop to a F2P world.
+- [ ] Exit the [Ferox Enclave](https://oldschool.runescape.wiki/w/Ferox_Enclave) to the north, then pick up 2 iron bars from spawn to the north west (hop worlds). 
+- [ ] Return to the enclave when you have the bars.
+- [ ] Hop back to a members world and home teleport to Lumbridge.
+- [ ] Climb the ladder to top of the castle towers.
+- [ ] Pick up the bronze pickaxe, then climb back down.
+- [ ] Head west all the way to Port Sarim.
+- [ ] Pick a cabbage from the field to the north.
+- [ ] Go to the Port Sarim magic shop and buy 100 mind runes and 200 air runes to stock up.
+- [ ] Head south to the [Asgarnian Ice Dungeon](https://oldschool.runescape.wiki/w/Asgarnian_Ice_Dungeon). 
+- [ ] Follow the dungeon and mine a [blurite ore](https://oldschool.runescape.wiki/w/Blurite_ore). **Run to avoid monsters**, you also have cake for a reason.
+- [ ] Speak with Thurgo west of the dungeon to get the blurite sword.
+- [ ] Drop the bronze pickaxe.
+- [ ] Head north to Falador.
+- [ ] Head to the castle and speak to the squire to complete The Knights Sword.
+- [ ] Climb the stairs to the west twice and speak to [Sir Amik Varze](https://oldschool.runescape.wiki/w/Sir_Amik_Varze) to start [Black Knights Fortress](https://oldschool.runescape.wiki/w/Black_Knights%27_Fortress).
+- [ ] Chronicle teleport to the Champions Guild.
+- [ ] Head Varrock square and buy an iron chainbody from [Horvik](https://oldschool.runescape.wiki/w/Horvik).
+- [ ] Go west to Barbarian Village.
+- [ ] Buy a bronze med helm from [Peska](https://oldschool.runescape.wiki/w/Peksa). Wear it and the iron chainbody.
+- [ ] Head north then west to the dwarf base.
+- [ ] Speak to [Nulodion]9https://oldschool.runescape.wiki/w/Nulodion) to continue Dwarf Cannon.
+- [ ] Head north and complete [Black Knights Fortress](https://oldschool.runescape.wiki/w/Black_Knights%27_Fortress) until you have to return to Falador.
+- [ ] Drop the bronze med helm and the iron chainbody.
+- [ ] Minigame teleport to [Soul Wars](https://oldschool.runescape.wiki/w/Soul_Wars).
+- [ ] Exit the portal to Edgeville.
+- [ ] Pull the [wilderness lever](https://oldschool.runescape.wiki/w/Wilderness_lever), then again, to get to Ardougne.
+- [ ] Pull the lever again, then back to Ardougne for the diary task.
+- [ ] Climb the stairs to the top of the building to the west. The building with the book from Waterfall, by [Rasolo](https://oldschool.runescape.wiki/w/Rasolo).
+- [ ] Place any [combat items](https://oldschool.runescape.wiki/w/Glarial%27s_Tomb#Restricted_items) you have on the table in the south east part of the room. This should be your runes, staff, and axe. **These will stay on the table for up to 10 minutes since they are on a table rather than the ground.** Don't AFK/DC while doing the tomb step.
+- [ ] Exit the building and run north east.
+- [ ] Retrieve [Glarial's urn](https://oldschool.runescape.wiki/w/Glarial%27s_urn) and [Glarial's amulet](https://oldschool.runescape.wiki/w/Glarial%27s_amulet) from [Glarial's tomb](https://oldschool.runescape.wiki/w/Glarial%27s_Tomb).
+- [ ] Go back and pick up your items from the table.
+- [ ] Run back north east and turn in Dwarf Cannon.
+- [ ] Head north and complete Waterfall.
+- [ ] Home teleport to Lumbridge. 
+- [ ] Grab 2x bronze pickaxe from the spawn, world hop for speed.
+- [ ] Bank everything in lumbridge. Including equiptment.
+
+## Short Intermission, quests that need a mostly empty inventory...
+
+- [ ] Run all the way to Falador.
+- [ ] Go to Falador Castle and speak to Sir Amike Varze to turn in Black Knights fortress.
+- [ ] Speak with him again to start [Recruitment Drive](https://oldschool.runescape.wiki/w/Recruitment_Drive)
+- [ ] Bank the reward, empty inventory.
+- [ ] Go to Falador Park, complete [Recruitment Drive](https://oldschool.runescape.wiki/w/Recruitment_Drive)
+- [ ] Go south to the bank.
+- [ ] Empty your inventory.
+- [ ] Grab 1x bronze pickaxe and **NOTHING ELSE**. We'll be suiciding to get to lumbridge fast.
+- [ ] Head north east into the [Dwarven mines](https://oldschool.runescape.wiki/w/Dwarven_Mine).
+- [ ] Mine 6 clay, 4 copper, and 2 iron ore. 
+- [ ] Leave the mine. Speak with [Doric](https://oldschool.runescape.wiki/w/Doric) and complete [Doric's quest](https://oldschool.runescape.wiki/w/Doric%27s_Quest).
+- [ ] Head west, fight a druid, turn off auto-relatiate, and let yourself die. **I TOLD YOU TO CLEAR YOUR INVENTORY**. 
+- [ ] Respawn in Lumbridge
+- [ ] Grab a knife from the Castle Kitchen.
+- [ ] Grab your shit from the bank.
+
+### Inventory Check
+
+- [ ] Wielding Fire Staff, Chronicle, and Ghost Speak.
+- [ ] Air Runes, Earth Runes, Water Runes, Mind Runes
+- [ ] [Hazelmere's Scroll](https://oldschool.runescape.wiki/w/Hazelmere%27s_scroll)
+- [ ] Tinderbox
+- [ ] Steel Axe
+- [ ] cash stack
+
+## Wrapping Up
+
+- [ ] Go Draynor Village
+- [ ] Buy a mostly full inventory of wines, save 3 slots.
+- [ ] Get a rope from [Ned](https://oldschool.runescape.wiki/w/Ned).
+- [ ] Complete [A Porcine of Interest](https://oldschool.runescape.wiki/w/A_Porcine_of_Interest). The boss is a bit hard, but should be doable with a lot of wines.
+- [ ] Destroy the goggles.
+- [ ] Restock on wines if you are low on food Leave 8 slots open.
+- [ ] Buy some [teleport cards](https://oldschool.runescape.wiki/w/Teleport_card) from [Diango](https://oldschool.runescape.wiki/w/Diango), you want about 15 charges in your chronicle.
+- [ ] Head back east to Lumbridge Castle.
+- [ ] Drop your tinderbox.
+- [ ] Cut trees and fletch the logs into 900 arrow shafts.
+- [ ] Drop the knife.
+- [ ] Drop the steel axe.
+- [ ] Head east into [Al-Kharid](https://oldschool.runescape.wiki/w/Al_Kharid), then south to [Shantay Pass](https://oldschool.runescape.wiki/w/Shantay_Pass).
+- [ ] Buy 900 feathers from [Shantay](https://oldschool.runescape.wiki/w/Shantay).
+- [ ] Fletch 900 headless arrows to get 10 Fletching. Drop them afterwards.
+- [ ] Complete the [Tourist Trap](https://oldschool.runescape.wiki/w/The_Tourist_Trap). Buy the required items from [Shantay](https://oldschool.runescape.wiki/w/Shantay). Put the rewards into **Agility**. 
+- [ ] Chronical teleport.
+- [ ] Head north to the Grand Exchange.
+- [ ] Take the spirit tree in the northeast corner to the Gnome Stronghold.
+- [ ] Head north and speak to King Narode. Continue and complete The Grand Tree. Use a chronical teleport to Varrock then GE Spirit tree again to get back from Karamja.
+- [ ] Buy 8x [Premade Choc Bomb](https://oldschool.runescape.wiki/w/Premade_choc_bomb) from the Gnome Waiter for Priest in Peril.
+- [ ] Chronical teleport.
+- [ ] Buy an Adamant sword from the [Varrock Swordshop](https://oldschool.runescape.wiki/w/Varrock_Swordshop).
+- [ ] Complete Priest In Peril
+- [ ] Use the Chronicle to get back to Varrock fast. 
+
+# ITS OVER!!!
+
+Thats it. A lot of early game questing done. 2 forms of transportation are now open. 
+
+If you want tips on what to do next:
+
+* Grind Fishing to 35, start doing Tempoross until 99 fishing, boredum, or the suicidial thoughts start creeping in.
+* * Dont cash in your permits until 85 fishing.
+* Grind Firemaking to 50, and do Wintertodt until 99 Firemaking, boredum, or the suicidial thoughts start creeping in.
+* * Don't worry about saving rewards, just do this for GP. 
+* * The skilling supplies look nice, but they're not that big in the grand scheme of things. 
+* Keep Questing
+* Start the agility grind
+* * Varrock until 40
+* * Canifus until 50
+* * Falador until 60,
+* * Seers until 260 marks of Grace
+* * Agility Pyramid until 75 and ~4mil GP. 
