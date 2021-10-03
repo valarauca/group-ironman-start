@@ -47,7 +47,7 @@ If you don't care about nostalgia... In Runelite, go the wrench (in the upper ri
 - [ ] Continue West, speak to [Father Urhney](https://oldschool.runescape.wiki/w/Father_Urhney) to continue [Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost) and get the [Ghostspeak Amulet](https://oldschool.runescape.wiki/w/Ghostspeak_amulet).
 - [ ] There is a leather glove spawn in Father Urhney's house, grab a pair.
 - [ ] Equip the [Ghostspeak Amulet](https://oldschool.runescape.wiki/w/Ghostspeak_amulet) and Leather Gloves.
-- [ ] Head South East to [Abigale](https://oldschool.runescape.wiki/w/Abigale), start and complete [Misthalin Mystery](https://oldschool.runescape.wiki/w/Misthalin_Mystery). Keep the box you get during this quest.
+- [ ] Head South East to [Abigale](https://oldschool.runescape.wiki/w/Abigale), start and complete [Misthalin Mystery](https://oldschool.runescape.wiki/w/Misthalin_Mystery). Keep the tinderbox you get during this quest.
 - [ ] Drop the notes and knife. Keep the tinderbox, bucket of water, and gems.
 - [ ] Head north to lumbridge, open the coffin, and speak to the ghost to continue [Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost).
 - [ ] Sell the uncut gems at the general store
@@ -93,10 +93,9 @@ We're going to a lap around the F2P area. Collecting resources, doing some quest
 - [ ] Destroy the boots you get, keep the 10k gp.
 - [ ] Go east to [Gertrude](https://oldschool.runescape.wiki/w/Gertrude), and start [Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat).
 - [ ] Pick up a Doogle Leaf south of Gertrude's house.
-- [ ] Use the Doogle Leafe on your raw sardines.
+- [ ] Use the Doogle Leaf on your raw sardines.
 - [ ] Go east to [Varrock Square](https://oldschool.runescape.wiki/w/Varrock_Square) pay [Wilough](https://oldschool.runescape.wiki/w/Wilough) for information on Gertrude's Cat.
 - [ ] Buy a [Fire Staff](https://oldschool.runescape.wiki/w/Staff_of_fire) from [Zaff](https://oldschool.runescape.wiki/w/Zaff), equip it.
-- [ ] Buy a hammer from the general store.
 - [ ] Buy a hammer from the general store.
 - [ ] Go south, buy a beer for [Dr Harlow](https://oldschool.runescape.wiki/w/Dr_Harlow) to continue [Vampire Slayer](https://oldschool.runescape.wiki/w/Vampyre_Slayer). Make sure you get the [stake](https://oldschool.runescape.wiki/w/Stake).
 - [ ] Go to Aubury's rune shop to continue Rune Mysteries. 
