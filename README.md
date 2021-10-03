@@ -16,13 +16,13 @@ All this shit is good to do before you even log in.
 - [ ] I suggest using `runelite`. It can be downloaded from `https://runelite.net` or `https://github.com/runelite/runelite`. **Any other website is a phishing site that will steal your account.** Plugins are crazy totally game changing.
 - [ ] Sign in a google account, that'll save your settings so you can switch computers/installations.
 
-If you don't care about nostalgia, go the wrench (in the upper right), then at the bottom right where you see `Plugin Hub` and type in `117 HD (beta)` for the HD-OSRS experience.
+If you don't care about nostalgia... In Runelite, go the wrench (in the upper right), then at the bottom right where you see `Plugin Hub` and type in `117 HD (beta)` for the HD-OSRS experience.
 
 ## Tutorial Island Gotcha's
 
 - [ ] Make a female character (saves time during recruitment drive)
 - [ ] Finish Tutorial Island
-- [ ] You'll need to talk to an Ironman Tutor before the final step of Tutorial Island to become an Ironman. **IF YOU FORGET THIS STEP YOU'LL NEED TO MAKE A NEW ACCOUNT**. 
+- [ ] You'll need to talk to an Ironman Tutor before the final step of Tutorial Island to become a **Group** Ironman. **IF YOU FORGET THIS STEP YOU'LL NEED TO MAKE A NEW ACCOUNT**. 
 - [ ] Sync up with the group on [The Node](https://oldschool.runescape.wiki/w/Update:Group_Ironman_Blog#The_Node). The whole group will have to be online together to form the group.
 - [ ] Form the group
 
@@ -107,6 +107,25 @@ We're going to a lap around the F2P area. Collecting resources, doing some quest
 - [ ] Go the Lumberyard, finish Gertrude's Cat, go back to Gertrude and finish the quest.
 - [ ] Keep the cake & stew, drop the empty bucket.
 
+### Optional Wilderness Prayer Grind (feel free to skip)
+
+I am mentioning this because this is the ideal time. You got zero combat experience; so pretty much nobody can attack you in the wilderness. **This grind sucks**, it is kind of unnecessary, it'll only save you _like an hour_ in the grand scheme of things, but it'll make future quest combat easier. Now this grind will take 4-5 hours, so feel free to skip it. 
+
+That said, we'll be using safe spots and magic for everything, so this just makes setting up safespots easier.
+
+- [ ] Bank everything.
+- [ ] Enter the wilderness
+- [ ] If you're using runelite, setup the Aggression Plugin (to see how long you have before monsters become non-aggressive), and the menu entry swapper to change the default option on bones to `use` instead of `bury`.
+- [ ] Go to the [Bone yard](https://oldschool.runescape.wiki/w/Bone_Yard)
+- [ ] Dodge Skeletons & pick up big bones
+- [ ] You're gonna be world hopping to pick up big bones.
+- [ ] Get a full inventory of big bones.
+- [ ] Walk (only run from monsters, walking saves run energy) to the to [the chaos hut](https://oldschool.runescape.wiki/w/Chaos_Temple_%28hut%29)
+- [ ] Offer the bones
+- [ ] Repeat this 16-18 times until 43 prayer. **Seriously feel free to skip this**.
+
+Grab your shit out of the bank and continue.
+
 ### Inventory Check
 
 - [ ] Chocolate Cake
@@ -149,7 +168,7 @@ You aren't saving the cake, stew, bread, or shrimp for anything special. Feel fr
 - [ ] Equip the chronical. 
 - [ ] Go to [Morgan's house](https://oldschool.runescape.wiki/w/Morgan), head upstairs, and get the garlic.
 - [ ] Go North to Draynor Manner. **THERE IS A HIGHWAY MAN WHO CAN KILL YOU** run past him if you get aggro.
-- [ ] Enter [Draynor Manner](https://oldschool.runescape.wiki/w/Count_Draynor), defeat Count Draynor, to complete [Vampire Slayer]. You'll be using Magic, setup basic spell on auto-cast, and [safe spot (youtube guide)](https://www.youtube.com/watch?v=ACUWxB0Skyo) . As you level up, change your default combat spell. If Draynor Resets, just start the fight again. **THIS WILL TAKE A WHILE** b/c your magic level is shit, its fine. Don't worry about using your cake, stew, bread imp, and wine to setup the safespot.
+- [ ] Enter [Draynor Manner](https://oldschool.runescape.wiki/w/Count_Draynor), defeat Count Draynor, to complete [Vampire Slayer]. You'll be using Magic, setup basic spell on auto-cast, and [safe spot (youtube guide)](https://www.youtube.com/watch?v=ACUWxB0Skyo) . As you level up, change your default combat spell. If Draynor Resets, just start the fight again. **THIS WILL TAKE A WHILE** b/c your magic level is shit, its fine. Don't worry about using your cake, stew, bread, shrimp, and wine to setup the safespot.
 - [ ] Vampire Slayer Complete.
 - [ ] Drop the garlic and hammer.
 - [ ] If you have less than 8 pieces of food, go back to Draynor and buy more wine.
@@ -166,7 +185,19 @@ You aren't saving the cake, stew, bread, or shrimp for anything special. Feel fr
 - [ ] Head North to the bears, use the rocks as a safe spot, kill a bear, take the meat.
 - [ ] Go back to Captain Barnaby, head back to Rimmington.
 - [ ] Go to Falador
-- [ ] 
+- [ ] At the south entrance you can safe spot guards, kill them until 13 magic.
+- [ ] Go north to the Goblin Village, complete [Goblin Diplomacy](https://oldschool.runescape.wiki/w/Goblin_Diplomacy). There are Goblin Mail spawns within crates around the village. 
+- [ ] Drop the gold bar.
+- [ ] Head west to [Taverly](https://oldschool.runescape.wiki/w/Taverley) and [Complete Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House).
+- [ ] Take off your leather gloves and drop them.
+- [ ] Drop the keys from Witch's House quest.
+- [ ] Complete Druidic Ritual.
+- [ ] Use that lamp from X Marks The Spot on Herblore.
+- [ ] Use any genie or diary lamps on Herblore from now on (until 78). Herblore kind of sucks on Ironmen.
+- [ ] Return to Falador, go to the castle.
+- [ ] Talk to the [Squire](https://oldschool.runescape.wiki/w/Squire), to continue [The Knight's Sword Quest](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword)
+- [ ] Go upstairs, steal the picture, to continue [The Knight's Sword Quest](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword).
+- [ ] Head south to [The Crafting Guild](https://oldschool.runescape.wiki/w/Crafting_Guild), on that Peninsula to the south west (by the Hobgoblins), grab 1x [Snape Grass](https://oldschool.runescape.wiki/w/Snape_grass).
 
 
 
