@@ -47,7 +47,7 @@ If you don't care about nostalgia... In Runelite, go the wrench (in the upper ri
 - [ ] Continue West, speak to [Father Urhney](https://oldschool.runescape.wiki/w/Father_Urhney) to continue [Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost) and get the [Ghostspeak Amulet](https://oldschool.runescape.wiki/w/Ghostspeak_amulet).
 - [ ] There is a leather glove spawn in Father Urhney's house, grab a pair.
 - [ ] Equip the [Ghostspeak Amulet](https://oldschool.runescape.wiki/w/Ghostspeak_amulet) and Leather Gloves.
-- [ ] Head South East to [Abigale](https://oldschool.runescape.wiki/w/Abigale), start and complete [Misthalin Mystery](https://oldschool.runescape.wiki/w/Misthalin_Mystery). Keep the tinderbox you get during this quest.
+- [ ] Head South East to [Abigale](https://oldschool.runescape.wiki/w/Abigale), start and complete [Misthalin Mystery](https://oldschool.runescape.wiki/w/Misthalin_Mystery). Keep the box you get during this quest.
 - [ ] Drop the notes and knife. Keep the tinderbox, bucket of water, and gems.
 - [ ] Head north to lumbridge, open the coffin, and speak to the ghost to continue [Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost).
 - [ ] Sell the uncut gems at the general store
@@ -84,9 +84,9 @@ We're going to a lap around the F2P area. Collecting resources, doing some quest
 - [ ] buy 1 cheese, 3 red berry, and 1 raw beef. You'll need to hop worlds to buy the 3 redberries. There is only 1 in stock.
 - [ ] Go west to [Rimmington](https://oldschool.runescape.wiki/w/Rimmington), pick 3 onions north of Rimmington.
 - [ ] Go south to Rimmington, complete [Witch's Potion](https://oldschool.runescape.wiki/w/Witch%27s_Potion). Light a fire with your tinderbox to cook the beef into burnt meat with the nearby log spawn. If you cook it, use the cooked beef on the fire again to burn it.
-- [ ] Drop the Tinderbox.
 - [ ] North to Falador.
-- [ ] Talk to [Wyson The Gardener](https://oldschool.runescape.wiki/w/Wyson_the_gardener), offer 20gp for a woad leaves, this will get you 2x woad leaves. 
+- [ ] Talk to [Wyson The Gardener](https://oldschool.runescape.wiki/w/Wyson_the_gardener), offer 20gp for a woad leaves, this will get you 2x woad leaves.
+- [ ] Bank your tinderbox as you walk by. 
 - [ ] Head to [Falador Castle](https://oldschool.runescape.wiki/w/White_Knights%27_Castle), speak with the [Squire](https://oldschool.runescape.wiki/w/Squire), and start [The Knight's Sword quest](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword).
 - [ ] Walk north, then east to [Barbarian Village](https://oldschool.runescape.wiki/w/Barbarian_Village).
 - [ ] Complete the [stronghold of security](https://oldschool.runescape.wiki/w/Stronghold_of_Security). There is a cooked meat spawn in the northern hall of Barbarian Village, grab a couple for food.
@@ -198,6 +198,89 @@ You aren't saving the cake, stew, bread, or shrimp for anything special. Feel fr
 - [ ] Talk to the [Squire](https://oldschool.runescape.wiki/w/Squire), to continue [The Knight's Sword Quest](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword)
 - [ ] Go upstairs, steal the picture, to continue [The Knight's Sword Quest](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword).
 - [ ] Head south to [The Crafting Guild](https://oldschool.runescape.wiki/w/Crafting_Guild), on that Peninsula to the south west (by the Hobgoblins), grab 1x [Snape Grass](https://oldschool.runescape.wiki/w/Snape_grass).
+- [ ] Head south to Captain Barnaby and take the ship to Ardougne.
 
+### Inventory Check
 
+- [ ] Empty Jug
+- [ ] Earth Runes
+- [ ] Water Runes
+- [ ] Air Runes
+- [ ] Mind Runes
+- [ ] [That Picture from Knight's Sword](https://oldschool.runescape.wiki/w/Portrait)
+- [ ] Snape Grass
+- [ ] Steel Axe
+- [ ] Coins
+- [ ] Any leftover food, doesn't really matter.
 
+## Ardougne Time!!
+
+- [ ] Fill your empty jug at the sink just west of the boat.
+- [ ] Buy 5 cakes from [the baker in the market](https://oldschool.runescape.wiki/w/Ardougne_Baker%27s_Stall.) if you are low on food.
+- [ ] **Talk** (not right click teleport) to the [Wizard Cromperty](https://oldschool.runescape.wiki/w/Wizard_Cromperty) have him teleport you to the essence mine, leave immediately. This is to lock in a diary step.
+- [ ] Head to the chapel.
+- [ ] Complete [Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder).
+- [ ] Drop the plague cloths, and cattleprod.
+- [ ] Buy an iron axe **and** a rope from the general store south of the church.
+- [ ] Chop any normal tree for some logs.
+- [ ] Drop the iron axe.
+- [ ] Run west across the bridge, then south of the castle.
+- [ ] Complete [Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult). Side with Hazel.
+- [ ] Drop the key and the mark.
+- [ ] Head south east and complete [Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend).
+- [ ] Head south west and complete [Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena).
+- [ ] Drop the armor and keys from Fight Arena.
+- [ ] Run east to Port Khazard and buy some swamp paste.
+- [ ] Grab the tinderbox from your bank
+- [ ] Bank the law runes.
+- [ ] Chop and bun logs in the area with your steel axe until you are 30 Firemaking. Drop your food for space.
+- [ ] Head to [Witchaven](https://oldschool.runescape.wiki/w/Witchaven).
+- [ ] Buy a small net from [Ezekial Lovecraft](https://oldschool.runescape.wiki/w/Ezekial_Lovecraft)
+- [ ] Complete [Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug). Use the net to catch shrimp on the platform while you do it.
+- [ ] Drop the torch, sticks, glass, and pearls.
+- [ ] Head back to ardy market.
+- [ ] Steal cakes until 25 thieving. You can stand directly on top of the baker to never get caught.
+- [ ] Bank the cakes or drop them, it doesn't matter.
+- [ ] Leave yourself with at least 8 cakes.
+- [ ] Head north and complete Dwarf Cannon until you have to go to Ice Mountain.
+- [ ] Head north to the Barbarian Outpost.
+- [ ] Speak with Captain Cain to unlock the minigame teleport to Barbarian Assault (Say you are an expert already).
+- [ ] Run south and start [Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest), do it up until the point you need to go to Tree Gnome Village.
+- [ ] Read the book, and drop the book.
+- [ ] Run south and then west, enter the Gnome Stronghold.
+- [ ] Run north and speak to King Narnode to start the [The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree).
+- [ ] Go upstairs, then head west and north to find Hudo.
+- [ ] Buy 1 dwellberries, 1 bucket of milk, and 1 chocolate dust from Hudo. Be careful not to eat the dwellberries.
+- [ ] Use the chocolate dust on the bucket of milk.
+- [ ] Use your snape grass on the bucket of chocolate milk to make the [hangover cure](https://oldschool.runescape.wiki/w/Hangover_cure).
+- [ ] Minigame teleport to the [Fishing Trawler](https://oldschool.runescape.wiki/w/Fishing_Trawler).
+- [ ] Run south towards [Yanille](https://oldschool.runescape.wiki/w/Yanille).
+- [ ] Head to the island to the east of Yanille.
+- [ ] Go upstairs in the building and speak with [Hazelmere](https://oldschool.runescape.wiki/w/Hazelmere) to continue the Grand Tree.
+- [ ] Drop the translation book, keep the scroll.
+- [ ] After getting the message, head to the Tree Gnome Village maze.
+- [ ] Go through the maze and go down the ladder right before you get reach the railing in the center.
+- [ ] Search the off colored crate in the east room for a key.
+- [ ] Use the key on the door to the west path, speak to [Golrie](https://oldschool.runescape.wiki/w/Golrie) for [Glarial's Pebble](https://oldschool.runescape.wiki/w/Glarial%27s_pebble).
+- [ ] Exit the dungeon
+- [ ] Squeeze through the railing to get into the center area of the maze.
+- [ ] Comlete [Tree Gnome Village]9https://oldschool.runescape.wiki/w/Tree_Gnome_Village).
+- [ ] Drop the gnome amulet.
+- [ ] Use the spirit tree to teleport to battlefield of Khazard.
+- [ ] Steal cakes (or get them from your bank). Get 12 cakes.
+- [ ] Head north of the pub and speak to [Edmond](https://oldschool.runescape.wiki/w/Edmond).
+- [ ] Complete [Plague City](https://oldschool.runescape.wiki/w/Plague_City).
+- [ ] Read the scroll, drop the gas mask, hammer, spade, and empty bucket.
+- [ ] Buy a rope from the general store if you don't have one.
+
+### Inventory Check
+
+- [ ] 12x cake
+- [ ] Rope
+- [ ] [Hazelmere's scroll](https://oldschool.runescape.wiki/w/Hazelmere%27s_scroll)
+- [ ] [Glarial's pebble](https://oldschool.runescape.wiki/w/Glarial%27s_pebble)
+- [ ] [Knight's Sword Portrait](https://oldschool.runescape.wiki/w/Portrait)
+- [ ] Earth, Water, Air, Mind runes
+- [ ] Tinderbox
+- [ ] Steel Axe
+- [ ] Coins
