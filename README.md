@@ -44,11 +44,11 @@ If you don't care about nostalgia... In Runelite, go the wrench (in the upper ri
 - [ ] Go to the general store, buy a spade.
 - [ ] Do [step 1 of X Marks The Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot#The_first_clue)
 - [ ] Do [step 2 of X Marks The Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot#The_second_clue)
-- [ ] Continue West, spaek to [Father Urhney](https://oldschool.runescape.wiki/w/Father_Urhney) to continue [Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost) and get the [Ghostspeak Amulet](https://oldschool.runescape.wiki/w/Ghostspeak_amulet).
+- [ ] Continue West, speak to [Father Urhney](https://oldschool.runescape.wiki/w/Father_Urhney) to continue [Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost) and get the [Ghostspeak Amulet](https://oldschool.runescape.wiki/w/Ghostspeak_amulet).
 - [ ] There is a leather glove spawn in Father Urhney's house, grab a pair.
 - [ ] Equip the [Ghostspeak Amulet](https://oldschool.runescape.wiki/w/Ghostspeak_amulet) and Leather Gloves.
 - [ ] Head South East to [Abigale](https://oldschool.runescape.wiki/w/Abigale), start and complete [Misthalin Mystery](https://oldschool.runescape.wiki/w/Misthalin_Mystery). Keep the tinderbox you get during this quest.
-- [ ] Drop the notes. Keep the knife, tinderbox, bucket of water, and gems.
+- [ ] Drop the notes and knife. Keep the tinderbox, bucket of water, and gems.
 - [ ] Head north to lumbridge, open the coffin, and speak to the ghost to continue [Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost).
 - [ ] Sell the uncut gems at the general store
 
