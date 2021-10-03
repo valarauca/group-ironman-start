@@ -14,9 +14,9 @@ All this shit is good to do before you even log in.
 - [ ] Get an authenticator on that account (this ensures you can claim coins in the [stronghold of security](https://oldschool.runescape.wiki/w/Stronghold_of_Security)). 
 - [ ] Have membership, seriously F2P is really slow, it is a waste of time.
 - [ ] I suggest using `runelite`. It can be downloaded from `https://runelite.net` or `https://github.com/runelite/runelite`. **Any other website is a phishing site that will steal your account.** Plugins are crazy totally game changing.
-- [ ] Sign in a google account, that'll save your settings so you can switch computers/installations.
+- [ ] Sign into runelite with a google account, that'll save your settings so you can switch computers/installations.
 
-If you don't care about nostalgia... In Runelite, go the wrench (in the upper right), then at the bottom right where you see `Plugin Hub` and type in `117 HD (beta)` for the HD-OSRS experience.
+If you don't care about nostalgia... In Runelite, go the wrench (in the upper right), then at the bottom right where you see `Plugin Hub` and type in `117 HD (beta)` for the HD-OSRS experience. It looks nice.
 
 ## Tutorial Island Gotcha's
 
@@ -403,3 +403,5 @@ If you want tips on what to do next:
 * * Falador until 60,
 * * Seers until 260 marks of Grace
 * * Agility Pyramid until 75 and ~4mil GP. 
+* Do that wilderness prayer grind
+* Grind out 500k and buy a fuckload of runes for Mage Training Arena to finish bones to peeches
