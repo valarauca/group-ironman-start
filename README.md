@@ -390,6 +390,7 @@ Thats it. A lot of early game questing done. 2 forms of transportation are now o
 
 If you want tips on what to do next:
 
+* Change your character back to male.
 * Grind Fishing to 35, start doing Tempoross until 99 fishing, boredum, or the suicidial thoughts start creeping in.
 * * Dont cash in your permits until 85 fishing.
 * Grind Firemaking to 50, and do Wintertodt until 99 Firemaking, boredum, or the suicidial thoughts start creeping in.
