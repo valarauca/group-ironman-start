@@ -265,14 +265,15 @@ You aren't saving the cake, stew, bread, or shrimp for anything special. Feel fr
 - [ ] Use the key on the door to the west path, speak to [Golrie](https://oldschool.runescape.wiki/w/Golrie) for [Glarial's Pebble](https://oldschool.runescape.wiki/w/Glarial%27s_pebble).
 - [ ] Exit the dungeon
 - [ ] Squeeze through the railing to get into the center area of the maze.
-- [ ] Comlete [Tree Gnome Village]9https://oldschool.runescape.wiki/w/Tree_Gnome_Village).
+- [ ] Comlete [Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village).
 - [ ] Drop the gnome amulet.
 - [ ] Use the spirit tree to teleport to battlefield of Khazard.
 - [ ] Steal cakes (or get them from your bank). Get 12 cakes.
+- [ ] Buy a rope from the general store if you don't have one.
 - [ ] Head north of the pub and speak to [Edmond](https://oldschool.runescape.wiki/w/Edmond).
 - [ ] Complete [Plague City](https://oldschool.runescape.wiki/w/Plague_City).
 - [ ] Read the scroll, drop the gas mask, hammer, spade, and empty bucket.
-- [ ] Buy a rope from the general store if you don't have one.
+
 
 ### Inventory Check
 
