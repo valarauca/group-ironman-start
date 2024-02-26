@@ -312,7 +312,7 @@ You aren't saving the cake, stew, bread, or shrimp for anything special. Feel fr
 - [ ] Go west to Barbarian Village.
 - [ ] Buy a bronze med helm from [Peska](https://oldschool.runescape.wiki/w/Peksa). Wear it and the iron chainbody.
 - [ ] Head north then west to the dwarf base.
-- [ ] Speak to [Nulodion]9https://oldschool.runescape.wiki/w/Nulodion) to continue Dwarf Cannon.
+- [ ] Speak to [Nulodion](https://oldschool.runescape.wiki/w/Nulodion) to continue Dwarf Cannon.
 - [ ] Head north and complete [Black Knights Fortress](https://oldschool.runescape.wiki/w/Black_Knights%27_Fortress) until you have to return to Falador.
 - [ ] Drop the bronze med helm and the iron chainbody.
 - [ ] Minigame teleport to [Soul Wars](https://oldschool.runescape.wiki/w/Soul_Wars).
